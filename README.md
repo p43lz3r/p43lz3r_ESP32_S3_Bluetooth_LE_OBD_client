@@ -1,6 +1,6 @@
 # My Ford BLE OBD Client - Part 2 of My Learning Journey
 
-> **Personal Project Notes** - This is the client side of my OBD project. It connects to my 2020 Ford Fiesta ST, but also works fine with my OBD Simulator via the Bluetooth LE OBD dongle. Again, most of the smart code was written by **Claude AI** - I just tested it on my actual car and reported what worked/didn't work!
+> **Personal Project Notes** - This is the client side of my OBD project. It connects to my 2020 Ford Fiesta ST, but also works fine with my [Arduinno OBD Simulator](https://github.com/p43lz3r/p43lz3r_Arduino_OBD_Simulator) via the Bluetooth LE OBD dongle. Again, most of the smart code was written by **Claude AI** - I just tested it on my actual car and reported what worked/didn't work!
 
 ## What This Does
 
